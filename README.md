@@ -8,7 +8,7 @@ AI Inference Engineer and Full-stack AI engineer building agentic systems and ex
   <a href="https://shivrajtimilsena.com.np">Portfolio</a> ·
   <a href="https://shivrajtimilsena.com.np/#blogs">Blogs</a> ·
   <a href="https://medium.com/@timilsenashivraj598">Medium</a> ·
-  <a href="https://github.com/shivraj598">GitHub</a>
+  <a href="https://github.com/shivrajcode">GitHub</a>
 </p>
 
 [![Inference Engineering][badge-inference]][x]
@@ -21,7 +21,6 @@ AI Inference Engineer and Full-stack AI engineer building agentic systems and ex
 [![TypeScript][badge-ts]][x]
 [![Python][badge-python]][x]
 [![FastAPI][badge-fastapi]][x]
-[![Django][badge-django]][x]
 [![PostgreSQL][badge-postgres]][x]
 [![MongoDB][badge-mongodb]][x]
 [![Docker][badge-docker]][x]
@@ -32,47 +31,17 @@ AI Inference Engineer and Full-stack AI engineer building agentic systems and ex
 
 Exploring LLM internals, building GPT inference systems, and researching context and memory management, RAG latency optimization, and tokenization. Read my work on [Medium](https://medium.com/@timilsenashivraj598).
 
-- **[Dotfiles](https://github.com/shivraj598/dotfiles)** — My personal <span style="background-color:#556B2F;color:#FFFFFF;">NEOVIM</span>, <span style="background-color:#556B2F;color:#FFFFFF;">TMUX</span>, and shell setup tuned for daily development workflow and productivity.
 
-## Live Projects
 
-- **[MeroUI](https://github.com/shivraj598/meroUI)** — Reusable UI component library powered by shadcn. [Live Preview](https://meroui.shivraj.me)
-- **[WhiteboardAI](https://github.com/shivraj598/whiteboardAI)** — Infinite whiteboard for notes, charts, tables, and images. [Live Preview](https://whiteboard.shivraj.me)
-- **[ProjectFlow](https://github.com/shivraj598/ProjectFlow)** — Real-time project management for collaborative product teams. [Live Preview](https://projectflow.shivraj.me)
-- **[GuardRailDB](https://github.com/shivraj598/GuardRailDB--Secure_MCP_for_AI_to_Access_Database)** — Secure schema-aware MCP gateway for safe Postgres access. [Live Preview](https://guardraildb.shivraj.me)
-
-## AI Projects
-
-- **[DocMindAI](https://github.com/shivraj598/DocMindAI-Adaptive-Rag)** — Analyze documents with a scalable RAG platform. [Repository](https://github.com/shivraj598/DocMindAI-Adaptive-Rag)
-- **[AI Health Receptionist](https://github.com/shivraj598/AI-health-receptionist-Agent.)** — AI voice receptionist for modern healthcare teams. [Repository](https://github.com/shivraj598/AI-health-receptionist-Agent.)
-- **[Health AI Call Agent SaaS](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)** — AI-powered call-agent SaaS starter for healthcare workflows. [Repository](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)
-- **[Bolum](https://github.com/shivraj598/Bolum)** — Minimal push-to-talk dictation for Hyprland with Whisper, NVIDIA Parakeet, and Canary engines (Tauri v2). [Repository](https://github.com/shivraj598/Bolum)
-- **[Semantic Cache LLM Router](https://github.com/shivraj598/semantic-cache-llm-router)** — Routes LLM requests through a semantic cache to cut latency and cost. [Repository](https://github.com/shivraj598/semantic-cache-llm-router)
-- **[The Research Desk](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)** — Multi-agent workspace for research reports and insights. [Repository](https://github.com/shivraj598/The_Research_Desk--Multi-Agent-Research-Report-System)
-- **[GuardRailDB](https://github.com/shivraj598/GuardRailDB--Secure_MCP_for_AI_to_Access_Database)** — Secure MCP gateway connecting AI agents with Postgres. [Repository](https://github.com/shivraj598/GuardRailDB--Secure_MCP_for_AI_to_Access_Database)
-
-## Full-Stack Projects
-
-- **[ProjectFlow](https://github.com/shivraj598/ProjectFlow)** — Real-time project management for collaborative product teams. [Repository](https://github.com/shivraj598/ProjectFlow)
-- **[WhiteboardAI](https://github.com/shivraj598/whiteboardAI)** — Infinite whiteboard for notes, charts, tables, and images. [Repository](https://github.com/shivraj598/whiteboardAI)
-- **[MeroUI](https://github.com/shivraj598/meroUI)** — Reusable UI component library powered by shadcn. [Repository](https://github.com/shivraj598/meroUI)
-- **[Bolum](https://github.com/shivraj598/Bolum)** — Minimal push-to-talk dictation for Hyprland with Whisper, NVIDIA Parakeet, and Canary engines (Tauri v2). [Repository](https://github.com/shivraj598/Bolum)
-- **[Health AI Call Agent SaaS](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)** — AI-powered call-agent SaaS starter for healthcare workflows. [Repository](https://github.com/shivraj598/Health-AI-Call-Agent-SaaS)
-- **[Login Setup FastAPI](https://github.com/shivraj598/loginsetupfastAPI)** — Production-grade customer auth stack with FastAPI, async SQLAlchemy, and a Next.js storefront. [Repository](https://github.com/shivraj598/loginsetupfastAPI)
-- **[Reminder](https://github.com/shivraj598/Reminder)** — Browser extension for water and daily task reminders. [Repository](https://github.com/shivraj598/Reminder)
-- **[Finance Dashboard API](https://github.com/shivraj598/finance-dashboard-api)** — API for financial data, dashboard metrics, and transaction insights. [Repository](https://github.com/shivraj598/finance-dashboard-api)
-- **[YT Slice](https://github.com/shivraj598/ytslice)** — Process YouTube videos with metadata and streaming tools. [Repository](https://github.com/shivraj598/ytslice)
-- **[Portfolio v2](https://github.com/shivraj598/portfoliov2shivraj)** — Personal portfolio and blog site. [Repository](https://github.com/shivraj598/portfoliov2shivraj)
 
 <!-- Skill badge links -->
-[x]: https://github.com/shivraj598
+[x]: https://github.com/shivrajcode
 [badge-js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 [badge-ts]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
 [badge-python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
 [badge-cpp]: https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
 [badge-rust]: https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white
 [badge-fastapi]: https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
-[badge-django]: https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white
 [badge-postgres]: https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
 [badge-mongodb]: https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
 [badge-docker]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
